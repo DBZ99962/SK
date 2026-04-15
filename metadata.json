@@ -1,0 +1,8 @@
+{
+  "name": "SK AI Assistant",
+  "description": "A real-time, voice-to-voice AI assistant named SK with a sassy and playful personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
